@@ -45,7 +45,7 @@ def let_computer_play(num):
     elif feedback == 'l':
       low = guess + 1
     else:
-      print(f"Yes, Computer guessed that number {guess} correctly !!!")
+      print(f"Yay, Computer guessed that number {guess} correctly !!!")
       break
     
 def main():
